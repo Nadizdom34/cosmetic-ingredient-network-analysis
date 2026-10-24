@@ -112,13 +112,13 @@ This network allowed me to examine formulation similarities across different cos
 
 ### Ingredient Co-Occurrence Network
 
-![Ingredient Co-Occurrence Network](ingredient-network.png)
+![Ingredient Co-Occurrence Network](ingredient-co-occurence-network)
 
 *Ingredient co-occurrence network after backbone extraction and weighted-degree filtering. Colors represent communities identified in Gephi.*
 
 ### Product-Product Network
 
-![Product-Product Network](product-network.png)
+![Product-Product Network](cosmetic-network.png)
 
 *Product similarity network showing relationships between cosmetics sharing at least 13 ingredients. Colors represent detected communities.*
 
