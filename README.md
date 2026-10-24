@@ -112,7 +112,7 @@ This network allowed me to examine formulation similarities across different cos
 
 ### Ingredient Co-Occurrence Network
 
-![Ingredient Co-Occurrence Network](ingredient-co-occurence-network)
+![Ingredient Co-Occurrence Network](ingredient-co-occurence-network.png)
 
 *Ingredient co-occurrence network after backbone extraction and weighted-degree filtering. Colors represent communities identified in Gephi.*
 
