@@ -211,7 +211,7 @@ The following materials document the implementation, analysis, and results:
 
 - [Python Analysis Notebook](analysis.ipynb) — Data preprocessing and construction of the ingredient and product networks.
 - [Research Report](research-report.pdf) — Full research paper describing the methodology, centrality analysis, community detection, findings, and limitations.
-- [Project Presentation](presentation.pdf) — Slides summarizing the research questions, network visualizations, and results.
+- [Project Presentation](project-presentation.pdf) — Slides summarizing the research questions, network visualizations, and results.
 
 ## Limitations
 
